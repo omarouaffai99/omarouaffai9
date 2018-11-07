@@ -1,6 +1,6 @@
 token=NDcxMzI2OTk1NDY5NDM0ODgw.DsTFPw.5vuNp52oM6fToX55gRd1Bj_kn3o
 owner=418705499031076864   
 prefix=*
-game=*Help_Games_Station_Arabic
+game=Games_Station_Arabic
 stayinchannel=true
 songinstatus=false
